@@ -18,6 +18,8 @@ function greet(){
 
     //display
 
+    var greeter = document.getElementById('greeter');
+    greeter.textContent = greeting;
 }
 
 //todo: validate name inputs
