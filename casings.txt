@@ -1,0 +1,14 @@
+
+
+camelCase
+twoHumpCamel
+
+TitleCase
+PascalCase
+
+kebob-camelCase
+fruit-meat-veggie
+
+snake-case
+
+README
